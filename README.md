@@ -7,7 +7,9 @@
 
 ## Options 
 - dotnet run scl quotes read 
-``` Description: Work with a file that contains quotes
+
+```
+Description: Work with a file that contains quotes
 Usage:
  scl quotes [command] [options]
 Options:
@@ -16,4 +18,5 @@ Options:
 Commands:
  read             Read and display the file.
  delete            Delete lines from the file.
- add, insert <quote> <byline> Add an entry to the file. ```
+ add, insert <quote> <byline> Add an entry to the file.
+```
