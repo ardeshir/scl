@@ -5,7 +5,7 @@
 - scl quotes add "Hello world!" "Nancy Davolio"
 - scl quotes delete --search-terms David "You can do" Antoine "Perfection is achieved"
 
-## Opriona 
+## Options 
 - dotnet run scl quotes read 
 ``` Description: Work with a file that contains quotes
 Usage:
